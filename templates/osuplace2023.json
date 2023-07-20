@@ -5,11 +5,11 @@
     "templates": [
         {
             "name": "osu! logo; Bad Apple!! text; Border;",
-            "sources": [
-                "https://cdn.discordapp.com/attachments/364902074858602498/1121528323537895485/osu_logo.png"
+            "sources": [ 
+                "https://cdn.discordapp.com/attachments/1131661364298006548/1131667380502798386/sfzv8vu615db1.png"
             ],
             "priorityMaskSources": [
-                "https://cdn.discordapp.com/attachments/958285020433375252/1121581323321094225/osu_mask.png"
+                "https://cdn.discordapp.com/attachments/960259187949056012/1131712662972145734/kill.png"
             ],
             "x": 648,
             "y": 672
